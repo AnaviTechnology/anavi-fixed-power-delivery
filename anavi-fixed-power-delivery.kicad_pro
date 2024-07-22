@@ -501,7 +501,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "plots/v1",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../Motor Controller v1.17.step",

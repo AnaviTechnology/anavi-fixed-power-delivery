@@ -2743,6 +2743,10 @@
 		(uuid "f0e20efa-af7f-4675-8f98-ed6f5c634a6f")
 	)
 	(no_connect
+		(at 46.99 55.88)
+		(uuid "036823c5-32b8-48d2-8fee-73231d33e5de")
+	)
+	(no_connect
 		(at 160.02 96.52)
 		(uuid "19161706-97a3-4c34-a313-68b2fd63eaee")
 	)
@@ -2769,6 +2773,10 @@
 	(no_connect
 		(at 160.02 78.74)
 		(uuid "96e3b4a6-2f3f-4106-8a51-c6e17d407452")
+	)
+	(no_connect
+		(at 46.99 58.42)
+		(uuid "9a9ef95b-b957-4ec2-a320-4eb60c398225")
 	)
 	(no_connect
 		(at 160.02 88.9)
